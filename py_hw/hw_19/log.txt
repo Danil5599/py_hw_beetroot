@@ -1,0 +1,2 @@
+sample.txt was opened 1 times
+sample.txt was opened 1 times
